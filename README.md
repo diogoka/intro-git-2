@@ -1,1 +1,1 @@
-# intro-git-2
+# Git is Amazing!
