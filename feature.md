@@ -1,1 +1,1 @@
-The color is red.
+The color is green.
