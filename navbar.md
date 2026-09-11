@@ -1,1 +1,1 @@
-# The color is yellow.
+# The color is red.
